@@ -9,7 +9,7 @@ This project analyses customer shopping behaviour to identify purchasing pattern
 - Identify useful business insights from the data
 ## Tools & Technologies
 - Python
-- Pandas & numPy
+- Pandas 
 - SQL / PostgreSQL
 - Power BI
 - Excel / CSV
