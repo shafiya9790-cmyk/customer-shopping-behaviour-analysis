@@ -15,3 +15,5 @@ This project analyses customer shopping behaviour to identify purchasing pattern
 - Excel / CSV
 ## Dashboard
 An interactive Power BI dashboard was created to visualize customer shopping behaviour and provide meaningful insights through filters and charts.
+## Key Insights
+The analysis helps identify customer trends, purchasing behavior, and factors that can support better business decision-making.
